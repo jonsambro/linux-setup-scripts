@@ -12,3 +12,4 @@ sudo apt-get install libxcb-xrm-dev
 sudo apt-get install git
 git config --global user.email "jonsambro@gmail.com"
 git config --global user.name "Jonathan Brown"
+git config --global push.default matching
