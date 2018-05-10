@@ -8,3 +8,7 @@ sudo add-apt-repository ppa:aguignard/ppa
 sudo apt-get update
 sudo apt-get install libxcb-xrm-dev
 
+# install git
+sudo apt-get install git
+git config --global user.email "jonsambro@gmail.com"
+git config --global user.name "Jonathan Brown"
