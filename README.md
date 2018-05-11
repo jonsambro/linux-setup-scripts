@@ -6,3 +6,4 @@ Some scripts that perform some common tasks for use after a fresh linux install
 - install i3-gaps
 - install polybar
 - install git
+- install rofi (manually, this is a nightmare)

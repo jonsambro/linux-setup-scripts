@@ -1,3 +1,4 @@
+#!/bin/bash
 apt-get update
 apt-get upgrade
 
@@ -9,6 +10,9 @@ export EDITOR="$VISUAL"
 
 # install i3
 sudo ./i3-install.sh
+
+# install rofi
+sudo apt install rofi
 
 # install git
 sudo ./git-install.sh

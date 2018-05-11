@@ -1,3 +1,4 @@
+#!/bin/bash
 # install git
 sudo apt-get install git
 git config --global user.email "jonsambro@gmail.com"
